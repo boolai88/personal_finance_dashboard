@@ -1,25 +1,25 @@
- Personal Finance Dashboard
+# 💰 Personal Finance Dashboard
 
-Una web app semplice ma elegante per monitorare le proprie finanze personali.  
-Permette di aggiungere entrate e uscite, visualizzare il saldo e le statistiche tramite grafici.
+A simple and elegant web app to track personal finances.  
+Users can add income and expenses, view total balance, and see visual statistics with charts.
 
- Tecnologie
+## Technologies
 - HTML / CSS
 - JavaScript
 - Chart.js
 - LocalStorage
 
- Funzionalità
-- Aggiunta e rimozione di transazioni
-- Calcolo saldo, entrate e uscite
-- Grafico a torta delle spese
-- Salvataggio dati nel browser
+## Features
+- Add and remove transactions
+- Calculate balance, income, and expenses
+- Pie chart visualization of expenses
+- Data saved locally in the browser
 
- Come usare
-1. Clona il repository
-2. Apri `index.html` nel browser
-3. Aggiungi le tue transazioni e controlla il saldo e il grafico
+## How to use
+1. Clone the repository
+2. Open `index.html` in your browser
+3. Add your transactions and view your balance and chart
 
- Demo
-Puoi deployarlo facilmente su GitHub Pages o Netlify.
+## Demo
+Can be easily deployed on GitHub Pages or Netlify.
 
